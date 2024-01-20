@@ -10,6 +10,18 @@
 
 body {
     font-family: 'Source Code Pro', monospace;
+    background-color: #8383835b;
+}
+
+.bitcoin-logo-container {
+    position: absolute;
+    top: 52px; /* Adjust the top positioning as needed */
+    left: 160px; /* Adjust the left positioning as needed */
+}
+
+.bitcoin-logo {
+    height: 40px; /* Adjust the height of the logo as needed */
+    width: auto;
 }
 
 html{
